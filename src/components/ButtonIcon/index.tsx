@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 
 import DiscordImg from '../../assets/discord.png';
-import { styles } from "./style";
+import { styles } from "./styles";
 
 type Props = RectButtonProps & {
     title: string;
